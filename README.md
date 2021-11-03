@@ -5,3 +5,5 @@
 * [Computer Vision](https://github.com/LCaravaggio/DeepLearning_ITBA/tree/main/CV)
 * [Reinforcement Learning](https://github.com/LCaravaggio/DeepLearning_ITBA/tree/main/RL)
 * [Natural Language Processing]()
+
+https://innovacion.itba.edu.ar/educacion-ejecutiva/tic/deep-learning/
