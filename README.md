@@ -1,2 +1,7 @@
 # Diplomatura en Deep Learning
-Mi idea sería ir subiendo acá las cosas que voy haciendo de la diplomatura
+
+* [Probabilidad y Estadística en Python](https://github.com/LCaravaggio/DeepLearning_ITBA/tree/main/PEP)
+* [Machine Learning](https://github.com/LCaravaggio/DeepLearning_ITBA/tree/main/ML)
+* [Computer Vision](https://github.com/LCaravaggio/DeepLearning_ITBA/tree/main/CV)
+* [Reinforcement Learning](https://github.com/LCaravaggio/DeepLearning_ITBA/tree/main/RL)
+* [Natural Language Processing]()
