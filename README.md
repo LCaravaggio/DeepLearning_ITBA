@@ -6,4 +6,5 @@
 * [Reinforcement Learning](https://github.com/LCaravaggio/DeepLearning_ITBA/tree/main/RL)
 * [Natural Language Processing]()
 
-https://innovacion.itba.edu.ar/educacion-ejecutiva/tic/deep-learning/
+[Programa de la Diplomatura](https://innovacion.itba.edu.ar/educacion-ejecutiva/tic/deep-learning/) (/b)
+[Github de la Diplomatura](https://github.com/deeplearning-itba) (/b)
