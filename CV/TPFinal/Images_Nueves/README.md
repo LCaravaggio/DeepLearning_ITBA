@@ -20,4 +20,4 @@ Imágenes originales
 
 | Contenido | Estilo | 
 | --- | --- | 
-|<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.nationalgeographic.com.es/medio/2014/10/22/afgrl-10001_1200x1800.jpg" width="257" height="171"> | <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.artehistoria.com/sites/default/files/styles/full_horizontal/public/imagenobra/VAA05680.jpg" width="257" height="171"> |
+|<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.nationalgeographic.com.es/medio/2014/10/22/afgrl-10001_1200x1800.jpg" width="171" height="257"> | <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.artehistoria.com/sites/default/files/styles/full_horizontal/public/imagenobra/VAA05680.jpg" width="171" height="257"> |
